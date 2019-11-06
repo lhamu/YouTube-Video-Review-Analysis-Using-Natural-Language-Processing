@@ -2,7 +2,7 @@ from apiclient.discovery import build
 from comment_threads import get_comment_threads
 from search import youtube_search
 # arguments to be passed to build function
-DEVELOPER_KEY = "AIzaSyBamznAT1rjDBvppZ3ws8tcf5jViLLMbYw"
+DEVELOPER_KEY = "*******************"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
