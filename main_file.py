@@ -39,7 +39,7 @@ for id in neg_wordlist.fileids():
 
 
 # arguments to be passed to build function
-DEVELOPER_KEY = "AIzaSyAGFJ2Oh0UbbwGXxFqarOT7rM8Aw_OoYlw"
+DEVELOPER_KEY = "************************"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
